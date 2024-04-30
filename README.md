@@ -1,4 +1,4 @@
-# Dynamic-Runtime-Scanner-FREE
+# Dynamic Runtime Scanner  test your payload runtime
 
 
 
